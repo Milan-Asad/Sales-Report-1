@@ -5,3 +5,4 @@ A Data Analytic project, capturing the visualisations of sales in a dashboard
 
 ## FINDINGS:
 ### Clicks By Month
+On a downward trend
